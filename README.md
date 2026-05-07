@@ -36,7 +36,7 @@
 ```python
 class hzyuki:
     username   = "hzyuki"
-    instagram  = "@hzyuki"
+    instagram  = "@hzyuki_909"
     status     = "sempre online, nunca presente"
     mood       = "☽ entre o código e a névoa"
 
@@ -67,26 +67,3 @@ class hzyuki:
 
 ---
 
-## ◈ GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hzyuki&show_icons=true&theme=dark&bg_color=0d1117&title_color=8892b0&icon_color=8892b0&text_color=4a5568&border_color=1a1a2e"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzyuki&layout=compact&theme=dark&bg_color=0d1117&title_color=8892b0&text_color=4a5568&border_color=1a1a2e"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=hzyuki&theme=dark&background=0D1117&border=1A1A2E&ring=8892B0&fire=8892B0&currStreakLabel=8892B0)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=hzyuki&color=1a1a2e&style=for-the-badge&label=VISITORS)
-
-</div>
