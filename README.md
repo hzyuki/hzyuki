@@ -13,7 +13,7 @@
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/@hzyuki-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hzyuki)
+[![Instagram](https://img.shields.io/badge/@hzyuki-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hzyuki_909)
 [![GitHub](https://img.shields.io/badge/hzyuki-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hzyuki)
 
 </div>
