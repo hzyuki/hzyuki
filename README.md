@@ -1,21 +1,13 @@
 <div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/hzyuki/hzyuki/main/banner.jpg" alt="banner"/>
-
+<img width="100%" src="https://raw.githubusercontent.com/hzyuki/hzyuki/main/banner2.jpg" alt="banner"/>
 <br/>
 <br/>
-
 <img src="https://raw.githubusercontent.com/hzyuki/hzyuki/main/icon.png" width="60" height="60" alt="icon"/>
-
 <br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8892B0&center=true&vCenter=true&width=500&lines=hzyuki;wandering+in+the+dark...;entre+o+c%C3%B3digo+e+o+caos)](https://git.io/typing-svg)
-
 <br/>
-
 [![Instagram](https://img.shields.io/badge/@hzyuki-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hzyuki_909)
 [![GitHub](https://img.shields.io/badge/hzyuki-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hzyuki)
-
 </div>
 
 ---
@@ -39,14 +31,12 @@ class hzyuki:
     instagram  = "@hzyuki_909"
     status     = "sempre online, nunca presente"
     mood       = "☽ entre o código e a névoa"
-
     interests  = [
         "dark aesthetics",
         "coding at 3am",
         "lofi & silence",
         "games & lore",
     ]
-
     currently  = "building something in the shadows..."
 ```
 
@@ -62,8 +52,4 @@ class hzyuki:
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=8892b0)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=8892b0)
 
-
 </div>
-
----
-
